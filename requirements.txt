@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+jupyter
+ipykernel
+pcntoolkit
+openpyxl
+scikit-learn
+seaborn
+h5netcdf
+h5py
+netCDF4
